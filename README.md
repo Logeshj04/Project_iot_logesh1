@@ -5,7 +5,8 @@
 
 This repository contains the source code and documentation for a Smart Traffic System that utilizes IoT sensors to collect real-time traffic data and a transit information platform to provide valuable insights. The system is integrated using Python, allowing you to monitor and manage traffic effectively.
 
-![Smart Traffic System](images/traffic_system.png)
+![Smart Traffic System](![Smart traffic management](https://github.com/Logeshj04/Project_iot_logesh1/assets/146071456/a213357a-bc2b-4a35-a612-f31f4649f1ec)
+)
 
 ## Table of Contents
 
@@ -14,8 +15,6 @@ This repository contains the source code and documentation for a Smart Traffic S
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -37,7 +36,7 @@ This repository contains the source code and documentation for a Smart Traffic S
 1. Clone the repository:
 
    ```bash
-   git clone https:
+   git clone https:https://github.com/Logeshj04/Project_iot_logesh1.git
 2.Set up the IoT sensors:
  
    Follow the instructions provided in the iot-sensors directory to set up your IoT devices for data collection.
@@ -51,7 +50,7 @@ This repository contains the source code and documentation for a Smart Traffic S
     python data_integration.py
 7.Develop and run the mobile app:
     Follow the instructions in the mobile-app directory to develop and run the mobile app for user access.
-##Usage
+##  Usage
  Visit the web-based transit information platform to visualize traffic data and gain insights.
  Modify the Python scripts in the scripts directory to customize data integration and analysis according to your needs.
 ##Raspberry Pi Data Transmission Example
@@ -63,7 +62,7 @@ $ python data_integration.py
 [INFO] Sensor 3: Weather Conditions - Clear sky
 [INFO] Data transmitted successfully to the platform.
 
-##Project Structure
+##  Project Structure
 iot-sensors/: IoT sensor setup instructions and code.
 transit-platform/: Web-based transit information platform code.
 mobile-app/: Mobile app development instructions and code.
