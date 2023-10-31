@@ -71,17 +71,17 @@ Below is an example output of Raspberry Pi data transmission:
 
 $ python data_integration.py
 
- Sensor 1: Traffic Flow - 25 vehicles/minute
- Sensor 2: Average Speed - 40 km/h
- Sensor 3: Weather Conditions - Clear sky
- Data transmitted successfully to the platform.
+ -Sensor 1: Traffic Flow - 25 vehicles/minute
+ -Sensor 2: Average Speed - 40 km/h
+ -Sensor 3: Weather Conditions - Clear sky
+ -Data transmitted successfully to the platform.
 
 ##  Project Structure
-iot-sensors: IoT sensor setup instructions and code.
-transit-platform: Web-based transit information platform code.
-mobile-app: Mobile app development instructions and code.
-scripts: Python scripts for data integration and analysis.
-data_integration.py: The main Python script for integrating IoT sensor data with the transit platform.
+-iot-sensors: IoT sensor setup instructions and code.
+-transit-platform: Web-based transit information platform code.
+-mobile-app: Mobile app development instructions and code.
+-scripts: Python scripts for data integration and analysis.
+-data_integration.py: The main Python script for integrating IoT sensor data with the transit platform.
 
 refence: taken from wowkwi ,tinkercad and arduino also.
 
