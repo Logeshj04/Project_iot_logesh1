@@ -77,12 +77,13 @@ $ python data_integration.py
  Data transmitted successfully to the platform.
 
 ##  Project Structure
-#iot-sensors/: IoT sensor setup instructions and code.
-#transit-platform/: Web-based transit information platform code.
-#mobile-app/: Mobile app development instructions and code.
-#scripts/: Python scripts for data integration and analysis.
-#data_integration.py: The main Python script for integrating IoT sensor data with the transit platform.
-#refence: taken from wowkwi ,tinkercad and arduino also.
+iot-sensors: IoT sensor setup instructions and code.
+transit-platform: Web-based transit information platform code.
+mobile-app: Mobile app development instructions and code.
+scripts: Python scripts for data integration and analysis.
+data_integration.py: The main Python script for integrating IoT sensor data with the transit platform.
+
+refence: taken from wowkwi ,tinkercad and arduino also.
 
 ## Benefits
 
